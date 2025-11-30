@@ -26,7 +26,7 @@ VS Code
 
 ## 🤖 AI Tools & Models Used
 - **Agent:** Google DeepMind's Advanced Agentic Coding Assistant
-- **Model:** Gemini 1.5 Pro / Flash
+- **Model:** Gemini 3 Pro
 
 ## 📝 Prompts Used (Summary)
 - "Create a T3 stack project for a restaurant menu system."
