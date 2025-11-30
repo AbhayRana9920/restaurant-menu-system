@@ -3,7 +3,7 @@
 A full-stack application for managing restaurant menus and allowing customers to view them digitally. Built with the T3 Stack (Next.js, tRPC, Prisma, Tailwind CSS).
 
 ## 🚀 Deployed Application
-**[INSERT YOUR VERCEL DEPLOYMENT LINK HERE]**
+**[https://restaurant-menu-system-three.vercel.app](https://restaurant-menu-system-three.vercel.app)**
 
 ## 🛠️ Tech Stack
 - **Framework:** Next.js (App Router & Pages Router mixed, T3 Stack)
