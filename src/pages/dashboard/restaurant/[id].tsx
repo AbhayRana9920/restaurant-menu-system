@@ -28,7 +28,7 @@ const createDishSchema = z.object({
     description: z.string().min(1, "Description is required"),
     price: z.coerce.number().min(0, "Price must be positive"),
     image: z.string().min(1, "Image is required"),
-    isVeg: z.boolean().default(true),
+    isVeg: z.boolean(),
     spiceLevel: z.coerce.number().min(0).max(3).optional(),
     categoryIds: z.array(z.string()).min(1, "Select at least one category"),
 });
